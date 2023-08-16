@@ -1,8 +1,8 @@
 ### Bem vindos ao meu perfil 🌃🌙
 
 Meu nome é Pedro Borela 
-- Fiz curso técnico de Redes de Computadores pelo (Senac)
-- Atualmente estudo Sistemas de Informação no Instituto Federal de Minas Gerais(IFSEMG)
+- Fiz curso técnico de Redes de Computadores pelo [Senac Minas](https://www.mg.senac.br/Paginas/default.aspx)
+- Atualmente estudo Sistemas de Informação no Instituto Federal de Minas Gerais [IFSEMG](https://www.ifsudestemg.edu.br/)
 - Também estou estudando na [Alura](https://www.alura.com.br)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
