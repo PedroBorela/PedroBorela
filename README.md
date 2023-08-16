@@ -7,7 +7,7 @@ Meu nome é Pedro Borela
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
-@pborela2014@gmail.com
+pborela2014@gmail.com
 
 @pedro.borela
 
