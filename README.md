@@ -9,7 +9,7 @@ Meu nome é Pedro Borela
 ### Você pode entrar em contato comigo 📫
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pborela2014@gmail.com)
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](@pedro.borela)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([@pedro.borela](https://www.instagram.com/pedro.borela/))
 
 
 ![](https://media1.giphy.com/media/xUOwGdcOfbq12yVhTi/giphy.gif?cid=ecf05e47rz0rt95j0gr6sl40o56tt2uwy6x9qtxsx625utub&ep=v1_gifs_search&rid=giphy.gif&ct=g)
