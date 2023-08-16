@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 🌃🌙
+
+Meu nome é Pedro Borela 
+-Fiz curso técnico de Redes de Computadores pelo (Senac)
+-Atualmente estudo Sistemas de Informação no Instituto Federal de Minas Gerais(IFSEMG)
+-Também estou estudando na Alura
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+@pborela2014@gmail.com
+
+@pedro.borela
 
 
-**PedroBorela/PedroBorela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![](https://i.pinimg.com/originals/ee/f8/a3/eef8a31d47d63a79e6b72dc994ee9e91.gif)
