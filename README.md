@@ -1,17 +1,68 @@
-### Bem vindos ao meu perfil 🌃🌙
+# Olá, eu sou o Pedro Borela! 👋
 
-Meu nome é Pedro Borela 
-- Fiz curso técnico de Redes de Computadores pelo [Senac Minas](https://www.mg.senac.br/Paginas/default.aspx)
-- Atualmente estudo Sistemas de Informação no Instituto Federal de Minas Gerais [IFSEMG](https://www.ifsudestemg.edu.br/)
-- Também estou estudando na [Alura](https://www.alura.com.br)
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+<div align="center">
+  <img src="https://media1.giphy.com/media/xUOwGdcOfbq12yVhTi/giphy.gif?cid=ecf05e47rz0rt95j0gr6sl40o56tt2uwy6x9qtxsx625utub&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" style="object-fit:cover; border-radius: 10px"/>
+</div>
 
-### Você pode entrar em contato comigo 📫
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pborela2014@gmail.com)
+### 👨‍💻 Sobre Mim
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([@pedro.borela](https://www.instagram.com/pedro.borela/))
+Sou um desenvolvedor apaixonado por tecnologia, natural de **Manhuaçu, Minas Gerais**. Atualmente, atuo como **Estagiário em Desenvolvimento** e estou no meio da minha jornada acadêmica em **Sistemas de Informação**.
 
+Gosto de explorar como a tecnologia pode resolver problemas reais, desde a criação de sistemas de gestão para comércios locais até experiências imersivas em Realidade Virtual.
 
-![](https://media1.giphy.com/media/xUOwGdcOfbq12yVhTi/giphy.gif?cid=ecf05e47rz0rt95j0gr6sl40o56tt2uwy6x9qtxsx625utub&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- 🎓 Cursando **Bacharelado em Sistemas de Informação** no [IFSEMG](https://www.ifsudestemg.edu.br/) (Previsão: 2027).
+- 📜 Técnico em **Redes de Computadores / TI** pelo [Senac Minas](https://www.mg.senac.br/).
+- 📚 Aprendiz contínuo na plataforma [Alura](https://www.alura.com.br).
 
+---
 
+### 🚀 Áreas de Interesse e Projetos
+
+Estou sempre codando algo novo. Meus focos atuais incluem:
+
+* **Desenvolvimento Web Moderno:** Criação de interfaces dinâmicas e responsivas (foco em React).
+* **Realidade Virtual (WebVR):** Desenvolvimento de ambientes imersivos e museus virtuais utilizando **A-Frame** e React.
+* **Engenharia de Dados & ML:** Estudos sobre metodologias como CRISP-DM e manipulação de dados.
+* **Projetos Aplicados:** Desenvolvimento de soluções para nichos específicos, como o sistema de gestão/landing page para a *Natureza em Flores* e a wiki *CoffeeaWiki*.
+
+---
+
+### 🛠️ Tech Stack
+
+**Linguagens & Frameworks:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Pedro-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+**Ferramentas & Outros:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Pedro-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 📫 Vamos conversar?
+
+Se quiser falar sobre tecnologia, café ou projetos web, me chame!
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pborela2014@gmail.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.borela/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
