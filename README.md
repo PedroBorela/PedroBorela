@@ -46,18 +46,7 @@ Estou sempre codando algo novo. Meus focos atuais incluem:
   <img align="center" alt="Pedro-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
----
 
 ### 📫 Vamos conversar?
 
@@ -65,4 +54,4 @@ Se quiser falar sobre tecnologia, café ou projetos web, me chame!
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pborela2014@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.borela/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-borela-25b421250/)
