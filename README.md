@@ -1,39 +1,61 @@
-# Olá, eu sou o Pedro Borela! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3B66,100:1B6CA8&height=120&section=header"/>
+
+## 🧑‍💻 Pedro Borela
+
+`Desenvolvedor Full-Stack` `Sistemas de Informação`
+
+Desenvolvedor na **Origenow**, onde trabalho com integração de sistemas, desenvolvimento de software e landing pages. No dia a dia conecto contas e APIs de plataformas como **Mercado Livre, Zoho, Slack e Supabase**, construindo os fluxos que ligam essas ferramentas entre si.
+
+Paralelamente, curso **Sistemas de Informação no IF Sudeste MG — Campus Manhuaçu**.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D3B66,100:1B6CA8&height=2"/>
+
+### Entre em Contato
+
 <div align="center">
-  <img src="https://media1.giphy.com/media/xUOwGdcOfbq12yVhTi/giphy.gif?cid=ecf05e47rz0rt95j0gr6sl40o56tt2uwy6x9qtxsx625utub&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="250px" style="object-fit:cover; border-radius: 10px"/>
+  <a href="https://www.linkedin.com/in/pedro-borela-25b421250/" target="_blank"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pedro.borela/" target="_blank"><img height="44" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="mailto:pborela2014@gmail.com"><img height="44" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 </div>
-### 👨‍💻 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, natural de **Manhuaçu, Minas Gerais**. Atualmente, atuo como **Estagiário em Desenvolvimento** e estou no meio da minha jornada acadêmica em **Sistemas de Informação**.
-Gosto de explorar como a tecnologia pode resolver problemas reais, desde a criação de sistemas de gestão para comércios locais até experiências imersivas em Realidade Virtual.
-- 🎓 Cursando **Bacharelado em Sistemas de Informação** no [IFSEMG](https://www.ifsudestemg.edu.br/) (Previsão: 2027).
-- 📜 Técnico em **Redes de Computadores / TI** pelo [Senac Minas](https://www.mg.senac.br/).
-- 📚 Aprendiz contínuo na plataforma [Alura](https://www.alura.com.br).
----
-### 🚀 Áreas de Interesse e Projetos
-Estou sempre codando algo novo. Meus focos atuais incluem:
-* **Desenvolvimento Web Moderno:** Criação de interfaces dinâmicas e responsivas (foco em React).
-* **Realidade Virtual (WebVR):** Desenvolvimento de ambientes imersivos e museus virtuais utilizando **A-Frame** e React.
-* **Engenharia de Dados & ML:** Estudos sobre metodologias como CRISP-DM e manipulação de dados.
-* **Projetos Aplicados:** Desenvolvimento de soluções para nichos específicos, como o sistema de gestão/landing page para a *Natureza em Flores* e a wiki *CoffeeaWiki*.
----
-### 🛠️ Tech Stack
-**Linguagens & Frameworks:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D3B66,100:1B6CA8&height=2"/>
+
+### 💻 O que faço
+
+**Integração de sistemas**: conexão de contas e APIs entre plataformas (Mercado Livre, Zoho, Slack, Supabase), sincronizando dados e automatizando o que antes era manual.
+
+**Desenvolvimento de software**: aplicações web e painéis internos em Next.js, TypeScript e Supabase.
+
+**Landing pages**: páginas de campanha e captação, do layout ao deploy.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D3B66,100:1B6CA8&height=2"/>
+
+### Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,java,postgres,supabase,docker,git,vercel&perline=7" />
 </div>
-**Ferramentas & Outros:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Pedro-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D3B66,100:1B6CA8&height=2"/>
+
+### TCC: Sistema de gestão para floricultura
+
+Desenvolvimento e avaliação de um sistema de gestão para a **Natureza Em Flores**, floricultura da minha família. O trabalho segue **Design Science Research** como metodologia, com avaliação de usabilidade por **SUS** e modelos preditivos de demanda (**ARIMA**, **LSTM**, **XGBoost**) aplicados ao estoque.
+
+Começou com uma God Table vergonhosa e hoje tem schema normalizado, a refatoração foi metade do aprendizado.
+
+`Next.js` `Supabase` `Railway`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D3B66,100:1B6CA8&height=2"/>
+
+### 📊 GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBorela&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1B6CA8&icon_color=1B6CA8&text_color=C9D1D9&hide=issues"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroBorela&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1B6CA8&text_color=C9D1D9"/>
 </div>
-### 📫 Vamos conversar?
-Se quiser falar sobre tecnologia, café ou projetos web, me chame!
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pborela2014@gmail.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.borela/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-borela-25b421250/)
+
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0D3B66&height=100&section=footer"/>
