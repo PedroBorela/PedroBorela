@@ -48,12 +48,12 @@ Começou com uma God Table vergonhosa e hoje tem schema normalizado, a refatora�
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D3B66,100:1B6CA8&height=2"/>
 
-### 📊 GitHub
+<!-- ### 📊 GitHub-->
 
-<div align="center">
+<!-- <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBorela&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1B6CA8&icon_color=1B6CA8&text_color=C9D1D9&hide=issues"/>
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroBorela&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1B6CA8&text_color=C9D1D9"/>
-</div>
+</div> -->
 
 </div>
 
